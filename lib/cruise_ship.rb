@@ -9,6 +9,7 @@ passengers.each do |suite, name|
   end
 end
 winner
+end
 
 # passengers = {
 # suite_a: "Amanda Presley", 
